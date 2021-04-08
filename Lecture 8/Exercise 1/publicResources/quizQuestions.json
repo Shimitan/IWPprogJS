@@ -1,0 +1,48 @@
+{
+    "questions":[
+        {
+            "id":1,
+            "question": "What is the name for the Jewish New Year?",
+            "answers": {
+                "a": "Hanukkah",
+                "b": "Yom Kippur",
+                "c": "Kwanza",
+                "d": "Rosh Hashanah"
+            },
+            "correctAnswer": "d"
+        },
+        {
+            "id": 2,
+            "question": "How many blue stripes are there on the U.S. flag",
+            "answers": {
+                "a": "6",
+                "b": "7",
+                "c": "13",
+                "d": "0"
+            },
+            "correctAnswer": "d"
+        },
+        {
+            "id": 3,
+            "question": "Which one of these characters is not friends with Harry Potter?",
+            "answers": {
+                "a": "Ron Weasley",
+                "b": "Neville Longbottom",
+                "c": "Draco Malfoy",
+                "d": "Hermione Granger"
+            },
+            "correctAnswer": "c"
+        },
+        {
+            "id": 4,
+            "question": "What is the color of Donald Duckâ€™s bowtie?",
+            "answers": {
+                "a": "Red",
+                "b": "Yellow",
+                "c": "Blue",
+                "d": "White"
+            },
+            "correctAnswer": "a"
+        }
+    ]
+}
